@@ -1,9 +1,5 @@
 # Fraud Detection in Banking Transactions using AI
 
-## Team Members
-- Jack Murray (jam537@pitt.edu)
-- Chiranjeev Harshwal (chh261@pitt.edu)
-- Dhruv Gupta (dhg29@pitt.edu)
 
 ## Description
 Financial fraud and money laundering have become increasingly sophisticated in the age of mobile banking and cryptocurrencies. This project aims to combat fraudulent activities in the banking industry through the application of artificial intelligence.
